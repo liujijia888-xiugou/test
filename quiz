@@ -26,6 +26,11 @@
 
 34 F
 
+37 匹配题  
+E-BGP → Exchanges external routing information between two directly connected peers in different autonomous systems  
+I-BGP → Exchanges external routing information between two directly or indirectly connected peers in the same autonomous system  
+IGP → Exchanges internal routing information between two directly or indirectly connected peers in the same autonomous system  
+
 39 False
 40 A B C
 
